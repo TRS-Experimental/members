@@ -8,7 +8,7 @@ Tool to manage a clubs membership
 *  Memership joining form
 *  Workflow of various business processes
 *  Audit logging of all events
-*  Authenticated access
+*  Authenticated access (possibly federated)
 *  Role based access
   
 Runs on a single server using a MySQL Database backend
