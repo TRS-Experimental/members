@@ -12,3 +12,5 @@ Tool to manage a clubs membership
 *  Role based access
   
 Runs on a single server using a MySQL Database backend
+
+Some extra stuff...
